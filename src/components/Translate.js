@@ -85,8 +85,9 @@ const Translate = () => {
     });
   }, []);
   return (
-    <>
+    <>      <h1 >Language Translation </h1>
       <div className="container">
+           <h1></h1>
         <div className="wrapper">
           <div className="text-input">
             <textarea
